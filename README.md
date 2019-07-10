@@ -1,2 +1,3 @@
 # WebScrapping
-  Swift, SwiftSoup, GoogleTranslateAPI, Xcode
+  Swift, SwiftSoup, GoogleTranslateAPI
+  
