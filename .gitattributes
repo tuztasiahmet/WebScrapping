@@ -1,2 +1,2 @@
-# RealmSwift
-- RealmSwift.framework
+* linguist-vendored
+*.swift linguist-vendored=false
