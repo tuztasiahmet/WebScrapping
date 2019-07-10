@@ -1,1 +1,2 @@
-Demo/Demo/ViewController.swift/* linguist-vendored
+# Auto detect text files and perform LF normalization
+* text=auto
