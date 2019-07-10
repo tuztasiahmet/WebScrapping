@@ -1,0 +1,20 @@
+PODS:
+  - SwiftGoogleTranslate (0.2.1)
+  - SwiftSoup (2.2.0)
+
+DEPENDENCIES:
+  - SwiftGoogleTranslate
+  - SwiftSoup
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - SwiftGoogleTranslate
+    - SwiftSoup
+
+SPEC CHECKSUMS:
+  SwiftGoogleTranslate: 96960d3548e800e15b347518afca546d2edc8519
+  SwiftSoup: 230991361c5ba249d140161860a3864a28b63860
+
+PODFILE CHECKSUM: 6e5883341883fb5ab257170e3cbee476e1642006
+
+COCOAPODS: 1.7.3
